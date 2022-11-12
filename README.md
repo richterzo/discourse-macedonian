@@ -10,7 +10,7 @@ as the plugin command.
 
 ## Usage
 
-You can select the locale as "Uzbek”.
+You can select the locale as "Macedonian”.
 
 ## Update translations
 
