@@ -1,6 +1,6 @@
 # discourse-macedonian-locale
 
-This plugin adds a version of Uzbek as a new locale to Discourse.
+This plugin adds a version of Macedonian as a new locale to Discourse.
 
 ## Installation
 
